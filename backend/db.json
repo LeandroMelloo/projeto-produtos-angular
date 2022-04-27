@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    [
+      {
+        "nome": "Caneta Azul",
+        "preco": 2.78
+      },
+      {
+        "nome": "Caderno",
+        "preco": 10.78,
+        "id": 2
+      },
+      {
+        "nome": "Notebook Mac Pro",
+        "preco": 5510.78,
+        "id": 3
+      },
+      {
+        "nome": "Sansumg Galaxy S8",
+        "preco": 2810.78,
+        "id": 4
+      }
+    ]
+  ]
+}
